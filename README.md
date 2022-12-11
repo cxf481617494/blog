@@ -1,8 +1,17 @@
-.DS_Store
-Thumbs.db
-db.json
-*.log
-node_modules/
-public/
-.deploy*/
-_multiconfig.yml
+### 安装依赖
+
+```
+npm i 
+```
+
+### 运行
+
+```
+hexo s
+```
+
+### 打包
+
+```
+hexo d
+```
